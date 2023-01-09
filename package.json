@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  },
+  "name": "01-node-base",
+  "version": "0.0.1",
+  "description": "es una simple tabla de multipicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "deyson",
+  "license": "MIT"
+}
